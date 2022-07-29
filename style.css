@@ -1,20 +1,37 @@
 .jumbotron {
-    padding-top: 5rem;
-    background-color: #C77DFF;
+  padding-top: 5rem;
+  background-color: #c77dff;
 }
 
 .about {
-    background-color: #e0aaff;
+  background-color: #e0aaff;
 }
 
 #About {
-    background-color: #C77DFF;
+  background-color: #c77dff;
 }
 
-#contact {
+#sosmed {
     background-color: #e0aaff;
 }
 
+.ul-sosmed {
+    display: flex;
+    height: 100px;
+    justify-content: center;
+    align-items: center;
+    background-color: #e0aaff;
+}
+
+.li-sosmed {
+    list-style-type: none;
+    background-color: #e0aaff;
+}
+
+#contact {
+  background-color: #C77DFF;
+}
+
 section {
-    padding-top: 4rem;
+  padding-top: 4rem;
 }
